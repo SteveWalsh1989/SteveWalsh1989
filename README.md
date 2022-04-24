@@ -4,9 +4,9 @@
 
 I am currently a  Full-Stack Developer, working full time at Teamwork. I'm passionate about learning, training and improving typical onboarding experiences though the use of accelerated learning methods. 
 
-- Daily tech used: Vue.js, JavaScript, Golang, Git
+- Daily tech used: Vue.js, JavaScript, Git
 
-- Other tech used: coffeescript, coldfusion, docker
+- Other tech used: Golang, coffeescript, knockout.js, coldfusion, docker
 
 [![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteveWalsh1989&count_private=true&show_icons=true)](https://github.com/SteveWalsh1989/github-readme-stats)
 
