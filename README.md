@@ -2,7 +2,7 @@
 
 
 
-I am currently a  Full-Stack Developer, working full time at Teamwork. I'm passionate about learning, training and improving typical onboarding experiences though the use of accelerated learning methods. 
+I am currently a  Full-Stack Developer, working full time at Teamwork. I'm passionate about learning, training, creating solutions, and improving typical onboarding experiences though the use of accelerated learning methods. 
 
 - Daily tech used: Vue.js, JavaScript, Git
 
