@@ -12,4 +12,4 @@ I am currently a  Full-Stack Developer, working full time at Teamwork. I'm passi
 
 [![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteveWalsh1989&count_private=true&show_icons=true)](https://github.com/SteveWalsh1989/github-readme-stats)
 
-*Github stats don't count private PRs. Have merged over 350 since starting my current job in Oct 2020.
+*Github stats don't count private PRs. Have merged just over 500 since starting my current job in Oct 2020.
