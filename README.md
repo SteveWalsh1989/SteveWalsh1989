@@ -4,9 +4,12 @@
 
 I am currently a  Full-Stack Developer, working full time at Teamwork. I'm passionate about learning, training, creating solutions, and improving typical onboarding experiences though the use of accelerated learning methods. 
 
-- Daily languages/frameworks using : Vue.js, JavaScript, Git, HTML5, CSS, Tailwind CSS, Vuetify
+- Daily languages/frameworks using : Vue.js, JavaScript, Git, HTML5, CSS, Tailwind CSS, Vuetify , coffeescript, knockout.js,
 
-- Other languages/frameworks used or learning: Golang, coffeescript, knockout.js, coldfusion, Python, Java, Bootstrap, C, React
+- Other languages/frameworks learning: Nuxt, PlayWright, Golang
+
+- Other languages/frameworks used but not currently actively learning: coldfusion, Python, Java, Bootstrap, C. 
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-SteveWalsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steve-walsh/)](https://www.linkedin.com/in/steve-walsh/) 
 
