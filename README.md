@@ -2,7 +2,7 @@
 
 
 
-I am currently a  Full-Stack Developer, working full time at Teamwork. I'm passionate about learning, training, creating solutions, and improving typical onboarding experiences though the use of accelerated learning methods. 
+I am currently a  Full-Stack Developer, working full time at Teamwork. I'm passionate about learning, training, creating solutions, and pairing up with others to work on something new. 
 
 - Daily languages/frameworks using : Vue.js, JavaScript, Git, HTML5, CSS, Tailwind CSS, Vuetify, coffeescript, knockout.js
 
@@ -15,4 +15,3 @@ I am currently a  Full-Stack Developer, working full time at Teamwork. I'm passi
 
 [![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteveWalsh1989&count_private=true&show_icons=true)](https://github.com/SteveWalsh1989/github-readme-stats)
 
-*Github stats don't count private PRs. Have merged just over 500 since starting my current job in Oct 2020.
