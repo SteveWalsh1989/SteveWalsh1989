@@ -2,7 +2,7 @@
 
 
 
-I am currently a  Full-Stack Developer, working full time at Teamwork. I'm passionate about learning, training, creating solutions, and pairing up with others to work on something new. 
+I am a developer, working full-time at Teamwork.com. I mostly work on frontend features around our Reporting, people, and in particular Client focused areas of the platform but I also dable in the backend where needed. I'm passionate about learning, training, creating solutions, and pairing up with others to work on something new. 
 
 Most of my public repos are just temporary projects for learning, if you want to see what I've been working on the past few years, head over to [Teamwork.com](https://www.teamwork.com/product/reporting/) and check out the custom reporting, precanned reports, scheduled reporting, and the clients view and dashboard features. 
 
